@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="/">
+    <meta charset="UTF-8">
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <title>UP SDK</title>
+</head>
+<body>
+    <div id="text">
+        UP SDK is loading..
+    </div>
+    <script>
+    window.UPAsyncInit = ()=>{
+        document.getElementById('text').innerHTML = "UP SDK loaded, initializing.."
+        UP_SDK.init({
+            "API_KEY": "bb30b3e53176f7b249bf0b16652a5afd0dc5f9de",
+            "USERNAME": "biz_tst_vjUSsDcewHRIZCFjCARVZn",
+            "ENV": "staging",
+            "LANG": "en"
+        });
+        document.getElementById('text').innerHTML = "UP SDK initialized."
+
+    }
+
+    (function(d){
+        var js, id = 'up-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "https://test-sdk.urbanpiper.com/";
+        js.onload = UPAsyncInit;
+        ref.parentNode.insertBefore(js, ref);
+    }(document));
+    </script>
+</body>
+</html>
