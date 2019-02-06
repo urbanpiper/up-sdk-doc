@@ -7,3 +7,4 @@ UPSDK has no external dependency.
 
 ## Use Zero config UP template to build:
 Visit: https://github.com/urbanpiper/web-zero
+Live Demo: https://optimistic-bartik-834935.netlify.com/
