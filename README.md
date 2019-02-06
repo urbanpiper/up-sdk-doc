@@ -5,5 +5,5 @@ Check detail implementation on [Documentation](https://github.com/urbanpiper/up-
 UPSDK has no external dependency.  
 `upsdk` module can be used on Nodejs, React Native, React and other JS platform.  
 
-## Use UP template to build cross platform apps (Website, IOS, Android)  
-Visit: https://github.com/urbanpiper/react-native-web
+## Use Zero config UP template to build:
+Visit: https://github.com/urbanpiper/web-zero
