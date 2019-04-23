@@ -5,8 +5,5 @@ Check detail implementation on [Documentation](https://github.com/urbanpiper/up-
 UPSDK has no external dependency.  
 `upsdk` module can be used on Nodejs, React Native, React and other JS platform.  
 
-## Bootstrap your project with zero config template:  
-Visit: https://github.com/urbanpiper/web-zero  
-Live Demo: https://optimistic-bartik-834935.netlify.com/ . 
 
-![alt text](https://i.ibb.co/8PxBznV/screencapture-localhost-3001-2019-02-05-19-01-02.png)  
+![alt text](https://github.com/urbanpiper/up-sdk-demo/blob/master/UPSDK.png)  
