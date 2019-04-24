@@ -1,4 +1,6 @@
-# up js SDK
+# up js SDK  
+JS SDK enables you to build powerful ecommerce apps by utilising the capabilities of UrbanPiper platform.  
+
 Check detail implementation on [Documentation](https://github.com/urbanpiper/up-sdk-demo/wiki)
 
 ## Dependency  
