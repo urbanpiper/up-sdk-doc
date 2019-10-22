@@ -4,8 +4,11 @@
 <p align="center">Doc: js SDK  </p>
 </hr>
 JS SDK enables you to build powerful ecommerce apps by utilising the capabilities of UrbanPiper platform.  
+</br>
 
-Check detail implementation on [Documentation](https://github.com/urbanpiper/up-sdk-demo/wiki)
+**Check detail implementation on [Documentation](https://github.com/urbanpiper/up-sdk-demo/wiki)**
+
+
 
 ## Dependency  
 UPSDK has no external dependency.  
